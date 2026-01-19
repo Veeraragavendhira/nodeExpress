@@ -1,0 +1,23 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "Node.Js &amp; Express Js",
+  "homepage": "https://github.com/Veeraragavendhira/nodeExpress#readme",
+  "bugs": {
+    "url": "https://github.com/Veeraragavendhira/nodeExpress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veeraragavendhira/nodeExpress.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
